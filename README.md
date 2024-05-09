@@ -24,6 +24,10 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 [**Visit our status website →**](https://status.givpn.my.id)
 
+## or
+
+[**Visit our status website by uptimerobot→**](https://stats.uptimerobot.com/jwMlPilyGm)
+
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
