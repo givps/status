@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.givpn.my.id.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "21.75%",
-    "uptimeDay": "21.75%",
-    "uptimeWeek": "21.75%",
-    "uptimeMonth": "21.75%",
-    "uptimeYear": "21.75%",
+    "uptime": "0.38%",
+    "uptimeDay": "0.38%",
+    "uptimeWeek": "0.38%",
+    "uptimeMonth": "0.38%",
+    "uptimeYear": "0.38%",
     "time": 308,
     "timeDay": 308,
     "timeWeek": 308,
     "timeMonth": 308,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2024-05-09": 0
+      "2024-05-09": 23
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://crypto.givpn.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/crypto.givpn.my.id.ico",
     "slug": "crypto",
-    "status": "down",
-    "uptime": "8.61%",
-    "uptimeDay": "8.61%",
-    "uptimeWeek": "8.61%",
-    "uptimeMonth": "8.61%",
-    "uptimeYear": "8.61%",
-    "time": 592,
-    "timeDay": 592,
-    "timeWeek": 592,
-    "timeMonth": 592,
-    "timeYear": 592,
+    "status": "up",
+    "uptime": "0.34%",
+    "uptimeDay": "0.34%",
+    "uptimeWeek": "0.34%",
+    "uptimeMonth": "0.34%",
+    "uptimeYear": "0.34%",
+    "time": 427,
+    "timeDay": 427,
+    "timeWeek": 427,
+    "timeMonth": 427,
+    "timeYear": 427,
     "dailyMinutesDown": {
-      "2024-05-09": 0
+      "2024-05-09": 23
     }
   }
 ]
