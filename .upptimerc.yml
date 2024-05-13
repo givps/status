@@ -9,6 +9,8 @@ sites:
     url: https://install.givpn.my.id
   - name: Crypto
     url: https://crypto.givpn.my.id
+  - name: Openclash
+    url: https://openclash.givpn.my.id
   #- name: Test Broken Site
     #url: https://thissitedoesnotexist.koj.co
   #- name: IPv6 test
