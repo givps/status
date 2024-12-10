@@ -5,12 +5,16 @@ repo: status # The name of this repository
 sites:
   - name: Status
     url: https://status.givpn.my.id
+  - name: Givpn
+    url: https://givpn.my.id
   - name: Install
     url: https://install.givpn.my.id
   - name: Crypto
     url: https://crypto.givpn.my.id
   - name: Openclash
     url: https://openclash.givpn.my.id
+  - name: Ipgivpn
+    url: https://ipgivpn.my.id
   #- name: Test Broken Site
     #url: https://thissitedoesnotexist.koj.co
   #- name: IPv6 test
