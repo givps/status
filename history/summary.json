@@ -11,13 +11,31 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 235,
-    "timeDay": 195,
-    "timeWeek": 235,
-    "timeMonth": 211,
+    "timeDay": 187,
+    "timeWeek": 228,
+    "timeMonth": 210,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2024-05-09": 23
     }
+  },
+  {
+    "name": "Givpn",
+    "url": "https://givpn.my.id",
+    "icon": "https://icons.duckduckgo.com/ip3/givpn.my.id.ico",
+    "slug": "givpn",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 104,
+    "timeDay": 104,
+    "timeWeek": 104,
+    "timeMonth": 104,
+    "timeYear": 104,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Install",
@@ -30,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 341,
-    "timeWeek": 304,
-    "timeMonth": 223,
-    "timeYear": 226,
+    "time": 225,
+    "timeDay": 220,
+    "timeWeek": 279,
+    "timeMonth": 219,
+    "timeYear": 225,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 244,
-    "timeDay": 97,
-    "timeWeek": 193,
-    "timeMonth": 196,
-    "timeYear": 244,
+    "time": 243,
+    "timeDay": 89,
+    "timeWeek": 179,
+    "timeMonth": 192,
+    "timeYear": 243,
     "dailyMinutesDown": {
       "2024-05-09": 23
     }
@@ -69,10 +87,28 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 199,
-    "timeDay": 170,
-    "timeWeek": 173,
-    "timeMonth": 177,
+    "timeDay": 118,
+    "timeWeek": 160,
+    "timeMonth": 173,
     "timeYear": 199,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Ipgivpn",
+    "url": "https://ipgivpn.my.id",
+    "icon": "https://icons.duckduckgo.com/ip3/ipgivpn.my.id.ico",
+    "slug": "ipgivpn",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 281,
+    "timeDay": 281,
+    "timeWeek": 281,
+    "timeMonth": 281,
+    "timeYear": 281,
     "dailyMinutesDown": {}
   }
 ]
